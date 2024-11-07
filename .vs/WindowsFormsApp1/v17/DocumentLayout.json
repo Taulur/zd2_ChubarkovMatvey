@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\zd2_ChubarkovMatvey-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Projects\\zd2_ChubarkovMatvey-main\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Projects\\zd2_ChubarkovMatvey-main\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Projects\\zd2_ChubarkovMatvey-main\\windowsformsapp1\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\Projects\\zd2_ChubarkovMatvey-main\\windowsformsapp1\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\phonebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\projects\\zd2_chubarkovmatvey-main\\windowsformsapp1\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3859CB97-77FD-472F-9825-558BCED3AD7C}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\phonebookloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WindowsFormsApp1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowsFormsApp1",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "RelativeToolTip": "WindowsFormsApp1\\WindowsFormsApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-07T08:11:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAI4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:23:05.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookLoader.cs",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\PhoneBookLoader.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PhoneBookLoader.cs",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\PhoneBookLoader.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PhoneBookLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:43:16.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneBook.cs",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\PhoneBook.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\PhoneBook.cs",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\PhoneBook.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\PhoneBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:28:57.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Contact.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Contact.cs",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Contact.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Contact.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:25:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Projects\\zd2_ChubarkovMatvey-main\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:21:21.778Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
